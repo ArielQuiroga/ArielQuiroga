@@ -33,10 +33,7 @@ const ari = {
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArielQuiroga&repo=tower-chain-front&theme=onedark" />
 </a>    
-<a href="https://github.com/ArielQuiroga/SoliditySchool">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArielQuiroga&repo=SoliditySchool&theme=onedark"/>
-</a>
+
 
 <p>Connect with me on
 <br>	
