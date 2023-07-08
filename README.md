@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/ArielQuiroga">Ariel Quiroga</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;" /></a>
 </p>
 <p>I am a front-end developer, I'm a Competitive Programmer, Web3 Enthusiast.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -31,11 +31,11 @@ const badri = {
 #### Popular Projects
 <a href="/https://github.com/ArielQuiroga/tower-chain-front">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArielQuiroga2&tower-chain-front&theme=onedark" />
 </a>    
 <a href="https://github.com/ArielQuiroga/SoliditySchool">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArielQuiroga&repo=SoliditySchool&theme=onedark"/>
 </a>
 
 
