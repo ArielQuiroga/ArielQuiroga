@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, Web3 Enthusiast.</p>
+<p>I am a front-end developer, Web3 Enthusiast .</p>
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 <ul>
   <li>👋 Hi, I’m @Ariel Quiroga</li>
@@ -16,7 +16,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const ari = {
   code: ["Javascript", "HTML", "CSS",],
   askMeAbout: ["web dev", "frontend dev", "web3", "blockchain"],
   technologies: {
