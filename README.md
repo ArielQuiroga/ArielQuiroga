@@ -1,28 +1,26 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/ArielQuiroga">Ariel Quiroga</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I am a front-end developer, I'm a Competitive Programmer, Web3 Enthusiast.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>👋 Hi, I’m @Ariel Quiroga</li>
+  <li>❤️ I love Creating websites and Programming in Javascript.</li>
+  <li>🌱 I’m currently learning Web Development. Also learning how to apply this to the Web3 world</li>
+  <li>💼 Currently working on personal proyects and doing jobs has a freelancer.</li>
+  <li>🧐 Portfolio Website, </li>
 </ul>
 
 #### A little more about me
 ```javascript
 const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["Javascript", "HTML", "CSS",],
+  askMeAbout: ["web dev", "frontend dev", "web3", "blockchain"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "JS", "TailwindCss", "EtherJs"],      
   }
 }
 ```
@@ -31,9 +29,6 @@ const badri = {
 > 🏆 420+ Contributions in the Year 2021
  > 
 > 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
 
 #### Popular Projects
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
