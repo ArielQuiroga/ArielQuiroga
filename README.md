@@ -5,7 +5,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;" /></a>
 </p>
 <p>I am a front-end developer, I'm a Competitive Programmer, Web3 Enthusiast.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 <ul>
   <li>👋 Hi, I’m @Ariel Quiroga</li>
   <li>❤️ I love Creating websites and Programming in Javascript.</li>
