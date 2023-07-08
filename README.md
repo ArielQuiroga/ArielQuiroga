@@ -29,7 +29,7 @@ const badri = {
 > 📜 400+ Commits on GitHub
 
 #### Popular Projects
-<a href="/https://github.com/ArielQuiroga/tower-chain-front">
+<a href="https://github.com/ArielQuiroga/tower-chain-front">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArielQuiroga2&tower-chain-front&theme=onedark" />
 </a>    
