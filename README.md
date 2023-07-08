@@ -26,7 +26,7 @@ const ari = {
 ```
 
 #### My GitHub Data :octocat:
-> 📜 400+ Commits on GitHub
+> 📜 100+ Commits on GitHub
 
 #### Popular Projects
 <a href="https://github.com/ArielQuiroga/SoliditySchool">
